@@ -20,12 +20,12 @@ first_name: Filippo
 highlight_name: true
 interests:
 - Musculoskeletal disorders
-- Epidemiology & Biostatist
+- Epidemiology & Biostatistics
 - Public Health
 last_name: Recenti
 organizations:
 - name: Lund University (Sweden), Genova University (Italy)
-  url: https://www.lunduniversity.lu.se/
+  url:
 role: PhD student in Medical Sciences and Neuroscience
 social:
 - icon: envelope
@@ -55,5 +55,6 @@ superuser: true
 title: Filippo Recenti
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Filippo recenti is a PhD student in Medical Sciences at Lund University and in Neuroscience at Genova University. His research interests include Musculoskeletal disorders, Epidemiology & Biostatist and Public Health.
 {style="text-align: justify;"}
