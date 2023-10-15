@@ -1,5 +1,5 @@
 ---
-bio: My research interests include Musculoskeletal disorders, Epidemiology & Biostatist and Public Health.
+bio: My research interests include Musculoskeletal disorders, Epidemiology & Biostatistics and Public Health.
 
 education:
   courses:
@@ -15,7 +15,7 @@ education:
   - course: BSc in Physiotherapy
     institution: Genova University
     year: 2016-2019
-email: "recefili@gmail.com"
+email: "filippo.recenti@edu.unige.it"
 first_name: Filippo
 highlight_name: true
 interests:
@@ -56,5 +56,5 @@ title: Filippo Recenti
 ---
 
 
-Filippo recenti is a PhD student in Medical Sciences at Lund University and in Neuroscience at Genova University. His research interests include Musculoskeletal disorders, Epidemiology & Biostatist and Public Health.
+Filippo Recenti is a PhD student in Medical Sciences at Lund University and in Neuroscience at Genova University. His research interests include Musculoskeletal disorders, Epidemiology & Biostatist and Public Health.
 {style="text-align: justify;"}

@@ -9,6 +9,7 @@ sections:
 - block: experience
   content:
     date_format: Jan 2006
+    title: Experience
     items:
     - company: Lund University / Genova University
       company_logo: uni
@@ -33,7 +34,7 @@ sections:
           * SAS & R programming
           * Writing and review of Statistical Analysis Report and Clinical Study Report
           * Manuscript writing
-      location: Modena
+      location: Modena (Italy)
       title: Epidemiologist / Biostatistician
     - company: Cochrane Rehabilitation
       company_logo: cochrane_icon
@@ -46,7 +47,7 @@ sections:
           * Systematic Review
           * Experiment Design
           * Statistical Analyses
-      location: Milan
+      location: Milan (Italy)
       title: Research Collaborator
     - company: Humanitas/AlmaPhysio/Freelance
       company_logo: physio
@@ -55,7 +56,7 @@ sections:
       date_start: "2019-11-01"
       description: |2-
         Assessment and treatment of musculoskeletal and neurological conditions carried out in team with clinicians and other health professionals.
-      location: Milan
+      location: Milan (Italy)
       title: Physiotherapist
   design:
     columns: "2"
@@ -92,7 +93,7 @@ sections:
       date_end: ""
       date_start: "2020-07-01"
       description: From identification of the clinical question, through ethics committee evaluation, to publication of the results in scientific journals and their impact on healthcare.
-      organization: UNIMORE
+      organization: Unimore
       organization_url: https://www.unimore.it/
       title: Clinical research methodology in healthcare
       url: ""
@@ -100,6 +101,7 @@ sections:
     title: Other Courses & Certifications
   design:
     columns: "2"
+  id: other
 - block: collection
   content:
     count: 5
@@ -110,7 +112,7 @@ sections:
       exclude_future: false
       exclude_past: false
       folders:
-      - post
+      - blog
       publication_type: ""
       tag: ""
     offset: 0
@@ -150,7 +152,7 @@ sections:
       icon_pack: fab
       link: https://twitter.com/Reci00_
       name: DM Me
-    directions: Laboratorio di Ingegneria della Riabilitazione (REHElab) Offices
+    directions: Laboratorio di Ingegneria della Riabilitazione (REHElab)
     email: filippo.recenti@med.lu.se
     email: filippo.recenti@edu.unige.it
     form:
