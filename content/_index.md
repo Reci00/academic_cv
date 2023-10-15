@@ -93,7 +93,7 @@ sections:
       date_end: ""
       date_start: "2020-07-01"
       description: From identification of the clinical question, through ethics committee evaluation, to publication of the results in scientific journals and their impact on healthcare.
-      organization: Unimore
+      organization: UNIMORE
       organization_url: https://www.unimore.it/
       title: Clinical research methodology in healthcare
       url: ""
